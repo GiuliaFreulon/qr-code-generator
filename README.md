@@ -5,7 +5,7 @@
 ## Overview
 
 - This **QR Code Generator** is a simple web application that allows users to input a URL or a text and generate its corresponding QR code
-- This project utilize [QR code generator web API](https://goqr.me/api/)
+- This project utilizes [QR code generator web API](https://goqr.me/api/)
 
 <p align="center">
   <img src="img\QR_Code_Generator_Image.PNG" alt="QR Code Generator Image" />
